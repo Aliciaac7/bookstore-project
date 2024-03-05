@@ -1,4 +1,5 @@
-# bookstore-project
+## bookstore-project
+## Created by Alicia Abalos
 
 # DESCRIPTION:
 This is a computer program that I created for a small bookstore. This application allows the manager of the store to manage inventory and rentals records efficiently.
