@@ -2,7 +2,7 @@
 
 
 # DESCRIPTION:
-This is a computer program that I created for a small bookstore. This application allows the manager of the store to manage inventory and rentals records efficiently.
+This is a simple computer program that I created for a small bookstore. This application allows the manager of the store to manage inventory and rentals records efficiently.
 
 # FEATURES:
 - Display a list of all books in the store
