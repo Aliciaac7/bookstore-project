@@ -24,4 +24,4 @@ This is a simple computer program that I created for a small bookstore. This app
 # INSTALLATION:
 - Make sure you have Java installed in your computer
 - Run BookStoretester.java file 
-- GUI Dashobard should open after running that file
+- GUI Dashboard should open after running that file
